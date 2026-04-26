@@ -1,0 +1,244 @@
+{
+  "locale": "id",
+  "seo": {
+    "title": "Bakso Geh Bandung | Bakso Urat, Mercon, Keju, dan Goreng",
+    "description": "Bakso hangat di Ciumbuleuit, Bandung. Ada bakso urat, mercon, keju, telur, halus, dan bakso goreng.",
+    "keywords": "bakso bandung, bakso urat, bakso mercon, bakso keju, bakso telur, bakso goreng, bakso ciumbuleuit",
+    "ogImage": "/images/bakso/responsive/hero-bakso-1280.jpg"
+  },
+  "creator": {
+    "name": "Coding Geh",
+    "website": "https://codinggeh.com",
+    "email": "hi@codinggeh.com",
+    "github": "https://github.com/codinggeh"
+  },
+  "business": {
+    "name": "Bakso Geh",
+    "description": "Bakso kuah sapi hangat dengan pilihan urat, mercon, keju, telur, halus, dan bakso goreng.",
+    "tagline": "Bakso hangat, kuah gurih, harga aman.",
+    "location": "Ciumbuleuit, Bandung",
+    "hours": "Setiap hari, 10.00 - 22.00 WIB",
+    "priceRange": "Rp20.000 - Rp28.000",
+    "servesCuisine": [
+      "Bakso",
+      "Makanan Indonesia",
+      "Kuah sapi hangat"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Buka tiap hari",
+    "headline": "Bakso hangat, kuah gurih, harga aman.",
+    "subheadline": "Urat, mercon, keju, telur, halus, dan bakso goreng.",
+    "ctaPrimary": "Lihat Menu",
+    "ctaSecondary": "Lokasi",
+    "ctaPrimaryHref": "#menu",
+    "ctaSecondaryHref": "#contact",
+    "stats": [
+      {
+        "value": "Mulai Rp20.000",
+        "label": "6 menu"
+      },
+      {
+        "value": "10.00 - 22.00",
+        "label": "Setiap hari"
+      },
+      {
+        "value": "Dine in + bungkus",
+        "label": "Siap cepat"
+      }
+    ],
+    "galleryImages": [
+      {
+        "id": "hero-1",
+        "src": "/images/bakso/hero-bakso.jpg",
+        "alt": "Semangkuk bakso kuah hangat",
+        "label": "Bakso kuah"
+      },
+      {
+        "id": "hero-2",
+        "src": "/images/bakso/bakso-spicy.jpg",
+        "alt": "Bakso pedas dengan sambal",
+        "label": "Mercon"
+      },
+      {
+        "id": "hero-3",
+        "src": "/images/bakso/bakso-bowl.jpg",
+        "alt": "Bakso lengkap",
+        "label": "Bakso goreng"
+      }
+    ]
+  },
+  "gallerySection": {
+    "eyebrow": "Foto Menu",
+    "title": "Mangkuk hangat dan gorengan",
+    "description": ""
+  },
+  "gallery": [
+    {
+      "id": "gallery-1",
+      "src": "/images/bakso/hero-bakso.jpg"
+    },
+    {
+      "id": "gallery-2",
+      "src": "/images/bakso/bakso-noodles.jpg"
+    },
+    {
+      "id": "gallery-3",
+      "src": "/images/bakso/bakso-spicy.jpg"
+    },
+    {
+      "id": "gallery-4",
+      "src": "/images/bakso/bakso-closeup.jpg"
+    },
+    {
+      "id": "gallery-5",
+      "src": "/images/bakso/bakso-vermicelli.jpg"
+    },
+    {
+      "id": "gallery-6",
+      "src": "/images/bakso/bakso-garnish.jpg"
+    },
+    {
+      "id": "gallery-7",
+      "src": "/images/bakso/bakso-complete.jpg"
+    },
+    {
+      "id": "gallery-8",
+      "src": "/images/bakso/bakso-bowl.jpg"
+    },
+    {
+      "id": "gallery-9",
+      "src": "/images/bakso/bakso-noodle-closeup.jpg"
+    },
+    {
+      "id": "gallery-10",
+      "src": "/images/bakso/bakso-bali.jpg"
+    },
+    {
+      "id": "gallery-11",
+      "src": "/images/bakso/bakso-rustic.jpg"
+    }
+  ],
+  "menuSection": {
+    "eyebrow": "Menu",
+    "title": "Jenis bakso",
+    "description": ""
+  },
+  "menu": [
+    {
+      "id": "bakso-urat",
+      "name": "Bakso Urat",
+      "price": 22000,
+      "currency": "IDR",
+      "desc": "Bakso urat, bihun, sawi, dan kuah sapi.",
+      "image": "/images/bakso/bakso-noodles.jpg"
+    },
+    {
+      "id": "bakso-mercon",
+      "name": "Bakso Mercon",
+      "price": 26000,
+      "currency": "IDR",
+      "desc": "Bakso isi sambal rawit dengan kuah hangat.",
+      "image": "/images/bakso/bakso-spicy.jpg"
+    },
+    {
+      "id": "bakso-keju",
+      "name": "Bakso Keju",
+      "price": 28000,
+      "currency": "IDR",
+      "desc": "Bakso isi keju dengan kuah gurih ringan.",
+      "image": "/images/bakso/hero-bakso.jpg"
+    },
+    {
+      "id": "bakso-telur",
+      "name": "Bakso Telur",
+      "price": 25000,
+      "currency": "IDR",
+      "desc": "Bakso isi telur, bihun, dan bawang goreng.",
+      "image": "/images/bakso/bakso-complete.jpg"
+    },
+    {
+      "id": "bakso-halus",
+      "name": "Bakso Halus",
+      "price": 20000,
+      "currency": "IDR",
+      "desc": "Bakso halus klasik dengan kuah bening.",
+      "image": "/images/bakso/bakso-closeup.jpg"
+    },
+    {
+      "id": "bakso-goreng",
+      "name": "Bakso Goreng",
+      "price": 24000,
+      "currency": "IDR",
+      "desc": "Bakso goreng renyah dengan sambal pendamping.",
+      "image": "/images/bakso/bakso-bowl.jpg"
+    }
+  ],
+  "resourcesSection": {
+    "eyebrow": "Lokasi",
+    "title": "Ciumbuleuit, Bandung",
+    "description": "Makan di tempat atau bungkus. Buka tiap hari."
+  },
+  "resources": [
+    {
+      "id": "location-main",
+      "title": "Bakso Geh Ciumbuleuit",
+      "description": "Ciumbuleuit, Bandung.",
+      "meta": "Alamat",
+      "href": "https://www.google.com/maps/search/?api=1&query=Ciumbuleuit+Bandung",
+      "hrefLabel": "Buka peta",
+      "icon": "map-pin"
+    },
+    {
+      "id": "hours",
+      "title": "Setiap hari",
+      "description": "10.00 - 22.00 WIB.",
+      "meta": "Jam buka",
+      "icon": "clock"
+    },
+    {
+      "id": "service",
+      "title": "Dine in & bungkus",
+      "description": "Makan di tempat atau bungkus buat rumah.",
+      "meta": "Layanan",
+      "icon": "store"
+    }
+  ],
+  "disclaimer": {
+    "seoTitle": "Disclaimer — Bakso Geh by Coding Geh",
+    "seoDescription": "Halaman disclaimer untuk Bakso Geh, sebuah proyek portofolio yang dibuat oleh Coding Geh.",
+    "eyebrow": "Disclaimer",
+    "title": "Bakso Geh adalah proyek portofolio.",
+    "intro": "Halaman ini menampilkan Bakso Geh sebagai simulasi website bakso, bukan bisnis yang sedang beroperasi.",
+    "items": [
+      "Brand, menu, harga, dan lokasi dipakai sebagai materi presentasi desain dan front-end.",
+      "Tidak ada transaksi, pemesanan, atau layanan restoran aktif di situs ini.",
+      "Untuk kerja sama atau pembuatan website, gunakan kontak resmi Coding Geh di bawah."
+    ],
+    "closing": "",
+    "note": "",
+    "contactTitle": "Kontak",
+    "contactIntro": "Untuk kerja sama dan pengembangan website, hubungi Coding Geh lewat kanal resmi berikut."
+  },
+  "ui": {
+    "nav": {
+      "home": "Beranda",
+      "menu": "Menu",
+      "locations": "Lokasi",
+      "disclaimer": "Disclaimer"
+    },
+    "common": {
+      "backHome": "Kembali ke beranda",
+      "light": "Terang",
+      "dark": "Gelap"
+    },
+    "footer": {
+      "allRightsReserved": "Seluruh hak cipta dilindungi."
+    },
+    "accessibility": {
+      "toggleTheme": "Ganti tema",
+      "switchLanguage": "Ganti bahasa",
+      "openNavigation": "Buka navigasi"
+    }
+  }
+}

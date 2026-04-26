@@ -1,0 +1,241 @@
+{
+  "locale": "en",
+  "seo": {
+    "title": "Bakso Geh Bandung | Indonesian Meatball Soup",
+    "description": "Hot Indonesian meatball soup in Ciumbuleuit, Bandung. Tendon, chili-filled, cheese-filled, egg-filled, classic, and fried options.",
+    "keywords": "indonesian meatball soup bandung, bakso bandung, bakso ciumbuleuit, meatball soup bandung, fried meatballs bandung",
+    "ogImage": "/images/bakso/responsive/hero-bakso-1280.jpg"
+  },
+  "creator": {
+    "name": "Coding Geh",
+    "website": "https://codinggeh.com",
+    "email": "hi@codinggeh.com",
+    "github": "https://github.com/codinggeh"
+  },
+  "business": {
+    "name": "Bakso Geh",
+    "description": "Indonesian meatball soup with hot beef broth, filled meatballs, and fried sides.",
+    "tagline": "Hot bowls, rich broth, fair prices.",
+    "location": "Ciumbuleuit, Bandung",
+    "hours": "Daily, 10 AM - 10 PM",
+    "priceRange": "IDR 20K - 28K",
+    "servesCuisine": [
+      "Bakso",
+      "Indonesian meatball soup",
+      "Beef broth"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Open daily",
+    "headline": "Hot bowls, rich broth, fair prices.",
+    "subheadline": "Tendon meatballs, chili-filled bakso, cheese-filled bowls, and fried sides.",
+    "ctaPrimary": "See Menu",
+    "ctaSecondary": "Find Us",
+    "ctaPrimaryHref": "#menu",
+    "ctaSecondaryHref": "#contact",
+    "stats": [
+      {
+        "value": "Starts at IDR 20K",
+        "label": "6 bowls"
+      },
+      {
+        "value": "10 AM - 10 PM",
+        "label": "Daily"
+      },
+      {
+        "value": "Dine-in + takeaway",
+        "label": "Ready to serve"
+      }
+    ],
+    "galleryImages": [
+      {
+        "id": "hero-1",
+        "src": "/images/bakso/hero-bakso.jpg",
+        "alt": "A bowl of Indonesian meatball soup"
+      },
+      {
+        "id": "hero-2",
+        "src": "/images/bakso/bakso-spicy.jpg",
+        "alt": "Chili-filled bakso with sambal"
+      },
+      {
+        "id": "hero-3",
+        "src": "/images/bakso/bakso-bowl.jpg",
+        "alt": "Fried bakso served with broth"
+      }
+    ]
+  },
+  "gallerySection": {
+    "eyebrow": "Photos",
+    "title": "Bowls, broth, and fried sides",
+    "description": ""
+  },
+  "gallery": [
+    {
+      "id": "gallery-1",
+      "src": "/images/bakso/hero-bakso.jpg"
+    },
+    {
+      "id": "gallery-2",
+      "src": "/images/bakso/bakso-noodles.jpg"
+    },
+    {
+      "id": "gallery-3",
+      "src": "/images/bakso/bakso-spicy.jpg"
+    },
+    {
+      "id": "gallery-4",
+      "src": "/images/bakso/bakso-closeup.jpg"
+    },
+    {
+      "id": "gallery-5",
+      "src": "/images/bakso/bakso-vermicelli.jpg"
+    },
+    {
+      "id": "gallery-6",
+      "src": "/images/bakso/bakso-garnish.jpg"
+    },
+    {
+      "id": "gallery-7",
+      "src": "/images/bakso/bakso-complete.jpg"
+    },
+    {
+      "id": "gallery-8",
+      "src": "/images/bakso/bakso-bowl.jpg"
+    },
+    {
+      "id": "gallery-9",
+      "src": "/images/bakso/bakso-noodle-closeup.jpg"
+    },
+    {
+      "id": "gallery-10",
+      "src": "/images/bakso/bakso-bali.jpg"
+    },
+    {
+      "id": "gallery-11",
+      "src": "/images/bakso/bakso-rustic.jpg"
+    }
+  ],
+  "menuSection": {
+    "eyebrow": "Menu",
+    "title": "Bowls and sides",
+    "description": ""
+  },
+  "menu": [
+    {
+      "id": "bakso-urat",
+      "name": "Tendon Meatball Soup",
+      "price": 22000,
+      "currency": "IDR",
+      "desc": "Beef tendon meatballs with vermicelli, greens, and clear beef broth.",
+      "image": "/images/bakso/bakso-noodles.jpg"
+    },
+    {
+      "id": "bakso-mercon",
+      "name": "Chili-Filled Meatball Soup",
+      "price": 26000,
+      "currency": "IDR",
+      "desc": "Bakso stuffed with bird's eye chili, served in hot beef broth.",
+      "image": "/images/bakso/bakso-spicy.jpg"
+    },
+    {
+      "id": "bakso-keju",
+      "name": "Cheese-Filled Meatball Soup",
+      "price": 28000,
+      "currency": "IDR",
+      "desc": "Cheese-filled bakso in a lighter beef broth.",
+      "image": "/images/bakso/hero-bakso.jpg"
+    },
+    {
+      "id": "bakso-telur",
+      "name": "Egg-Filled Meatball Soup",
+      "price": 25000,
+      "currency": "IDR",
+      "desc": "Bakso filled with egg, served with vermicelli and fried shallots.",
+      "image": "/images/bakso/bakso-complete.jpg"
+    },
+    {
+      "id": "bakso-halus",
+      "name": "Classic Meatball Soup",
+      "price": 20000,
+      "currency": "IDR",
+      "desc": "Smooth beef meatballs in clear, savory broth.",
+      "image": "/images/bakso/bakso-closeup.jpg"
+    },
+    {
+      "id": "bakso-goreng",
+      "name": "Fried Meatballs",
+      "price": 24000,
+      "currency": "IDR",
+      "desc": "Crisp fried bakso with sambal on the side.",
+      "image": "/images/bakso/bakso-bowl.jpg"
+    }
+  ],
+  "resourcesSection": {
+    "eyebrow": "Visit",
+    "title": "Bakso Geh, Ciumbuleuit",
+    "description": "Daily service for dine-in or takeaway."
+  },
+  "resources": [
+    {
+      "id": "location-main",
+      "title": "Bakso Geh",
+      "description": "Ciumbuleuit, Bandung.",
+      "meta": "Address",
+      "href": "https://www.google.com/maps/search/?api=1&query=Ciumbuleuit+Bandung",
+      "hrefLabel": "Open Map",
+      "icon": "map-pin"
+    },
+    {
+      "id": "hours",
+      "title": "Daily",
+      "description": "10 AM - 10 PM.",
+      "meta": "Hours",
+      "icon": "clock"
+    },
+    {
+      "id": "service",
+      "title": "Dine-in & takeaway",
+      "description": "Eat here or pack it to go.",
+      "meta": "Service",
+      "icon": "store"
+    }
+  ],
+  "disclaimer": {
+    "seoTitle": "Disclaimer — Bakso Geh Portfolio Project",
+    "seoDescription": "Disclaimer for Bakso Geh, a portfolio website concept created by Coding Geh.",
+    "eyebrow": "Disclaimer",
+    "title": "Bakso Geh is a portfolio concept.",
+    "intro": "This page presents Bakso Geh as a sample bakso website, not as a live restaurant business.",
+    "items": [
+      "The brand, menu, prices, and location are sample content for design and front-end presentation.",
+      "No orders, payments, or active restaurant services are processed through this website.",
+      "For client work or website development, use the official Coding Geh contact details below."
+    ],
+    "closing": "",
+    "note": "",
+    "contactTitle": "Contact",
+    "contactIntro": "For client work and website development, contact Coding Geh through the official channels below."
+  },
+  "ui": {
+    "nav": {
+      "home": "Home",
+      "menu": "Menu",
+      "locations": "Visit",
+      "disclaimer": "Disclaimer"
+    },
+    "common": {
+      "backHome": "Back home",
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "footer": {
+      "allRightsReserved": "All rights reserved."
+    },
+    "accessibility": {
+      "toggleTheme": "Toggle theme",
+      "switchLanguage": "Switch language",
+      "openNavigation": "Open navigation"
+    }
+  }
+}
