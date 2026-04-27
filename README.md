@@ -129,5 +129,5 @@ The current working branch has been validated with:
 ## Repo
 
 - Remote: `origin`
-- URL: `https://github.com/Coding-Geh/bakso.git`
+- URL: `https://github.com/codinggeh/bakso.git`
 - Active branch used for refactor work: `refactor/public-bakso-site`
